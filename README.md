@@ -9,7 +9,7 @@ class Nasvan {
     contact() {
 
 
-        const email       = 'nasvank7@@gmail.com'
+        const email       = 'nasvank7@gmail.com'
         const linkedin    = 'https://www.linkedin.com/in/nasvan-k-671771261/'
         
         return  email, linkedin
