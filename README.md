@@ -18,7 +18,7 @@ class Nasvan {
     life() {
 
 
-        const age           = 24
+        const age           = 25
         const occupation    = 'Full stack developer'
         const hobbies       = ['Mastering "404" Pages', 'Football']
         
